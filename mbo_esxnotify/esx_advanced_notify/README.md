@@ -1,17 +1,20 @@
-# 🚀 Advanced ESX Notify System
+# 📢 ESX Custom Notification System made by owen
 
-A customizable notification system for ESX-based FiveM servers.
+A clean and customizable NUI notification system for ESX-based FiveM servers.
 
-## ✨ Features
+---
 
-- 🔔 Supports four types of notifications: `info`, `success`, `warning`, `error`
-- 🕒 Custom timeout per message
-- 🖼️ Clean UI with CSS transitions
-- 📟 Trigger notifications from both **client-side** and **server-side**
-- 🧱 Fully modular & easy to extend
+## ✅ Features
 
-## 🧰 Installation
+- Supports notification types: `info`, `success`, `warning`, `error`
+- Smooth slide-in animations
+- ESX-compatible (`ESX.ShowNotification` and `esx:showNotification`)
+- Fully client-side for maximum performance
+- Easy integration
 
-1. Drag the `esx_advanced_notify` folder into your `resources` directory.
-2. Add this to your `server.cfg`:
+---
 
+## 🛠️ Installation
+
+1. Place `esx_custom_notify` in your `resources` folder.
+2. Add to your `server.cfg`:
