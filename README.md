@@ -1,4 +1,4 @@
-# 🚀 Advanced ESX Notify System
+# 🚀 Advanced ESX Notify System made by owen
 
 A customizable notification system for ESX-based FiveM servers.
 
