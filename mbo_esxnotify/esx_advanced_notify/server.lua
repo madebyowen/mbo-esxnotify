@@ -1,10 +1,11 @@
--- Example usage from server-side
-RegisterCommand("notifyall", function(source, args, rawCommand)
+-- Example server-side broadcast
+RegisterCommand("notifyall", function(source, args)
     local msg = table.concat(args, " ")
-    TriggerClientEvent('esx_advanced_notify:send', -1, {
+    TriggerClientEvent('esx_custom_notify:show', -1, {
         type = "warning",
-        title = "Server Alert",
+        title = "Broadcast",
         message = msg,
-        timeout = 6000
+        timeout = 5000
     })
 end)
+
