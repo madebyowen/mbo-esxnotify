@@ -1,15 +1,17 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'Advanced ESX Notify System'
+description 'Custom ESX Notification System'
 author 'MBO'
-version '1.0.0'
+version '1.5'
 
 client_scripts {
     'client.lua'
 }
 
-server_script 'server.lua'
+server_scripts {
+    'server.lua'
+}
 
 ui_page 'html/index.html'
 
