@@ -9,6 +9,8 @@ A customizable notification system for ESX-based FiveM servers.
 - 🖼️ Clean UI with CSS transitions
 - 📟 Trigger notifications from both **client-side** and **server-side**
 - 🧱 Fully modular & easy to extend
+- 📣In-game client: `/testnotify`
+- 📣Server console: `/notifyall Hello players!`
 
 ## 🧰 Installation
 
