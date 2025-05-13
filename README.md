@@ -20,3 +20,4 @@ A clean and customizable NUI notification system for ESX-based FiveM servers.
 2. Add to your `server.cfg`:
 
 
+![mbo_esxnlogo](https://github.com/user-attachments/assets/48aa507e-4a0b-4a4c-b428-f0190b5259a0)
